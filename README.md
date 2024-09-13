@@ -1,4 +1,4 @@
-# C-Prac
+# C-Prac Spring 23
 Engr 213; C programming coursework
 
 - Basic Syntax; Loops, arrays, data types, user input, etc
